@@ -14,7 +14,7 @@ With Mask and Incorrect Mask Images from cabani \
 Without Mask Images from balajisrinivas
 
 ## 3. Workflow
-<img src="https://github.com/eddylamhw/Mask-Wearing-and-Social-Distancing-Detection-Model/blob/main/images(ppt).jpg/p1esnk8v5l184u13jg6len9b1fr4-6.jpg" width = "100">
+<img src="https://github.com/eddylamhw/Mask-Wearing-and-Social-Distancing-Detection-Model/blob/main/images(ppt).jpg/p1esnk8v5l184u13jg6len9b1fr4-6.jpg" width = "500">
 <img src="https://github.com/eddylamhw/Mask-Wearing-and-Social-Distancing-Detection-Model/blob/main/images(ppt).jpg/p1esnk8v5l184u13jg6len9b1fr4-15.jpg">
 
 ## 4. Face Detection Model
