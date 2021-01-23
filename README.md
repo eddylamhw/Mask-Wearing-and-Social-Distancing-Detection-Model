@@ -22,7 +22,7 @@ For face detection, we used the DNN Face Detector in OpenCV, which is a Caffe mo
 
 ## 5. Pre-trained Model for Mask Wearing Classification
 As the training size is small (only 5831 images) , we used a pre-trained model for transfer learning.\
-<img src="https://github.com/eddylamhw/Mask-Wearing-and-Social-Distancing-Detection-Model/blob/main/images(ppt).jpg/p1esnk8v5l184u13jg6len9b1fr4-8.jpgg" width = "500">
+<img src="https://github.com/eddylamhw/Mask-Wearing-and-Social-Distancing-Detection-Model/blob/main/images(ppt).jpg/p1esnk8v5l184u13jg6len9b1fr4-8.jpg" width = "500">
 We used MobileNet V2 as our pre-trained model, as it is a light weight model with relatively few layers (only 53).  It has a smaller model size with fewer complexity cost, and is suitable to devices with low computational power. This is useful for us as we want to detect faces, and classify the wearing of masks in real time with a MacBook.
 
 ## 6. Distance Measurement
