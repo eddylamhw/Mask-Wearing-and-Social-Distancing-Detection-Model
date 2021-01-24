@@ -38,3 +38,16 @@ After getting the focal length, we can get the distance from the webcam, which w
 ## 7. Demo
 <img src="https://github.com/eddylamhw/Mask-Wearing-and-Social-Distancing-Detection-Model/blob/main/FinalDemo.gif" width = "500">
 https://github.com/eddylamhw/Mask-Wearing-and-Social-Distancing-Detection-Model/blob/main/FinalDemo.gif
+
+# References
+Face Detection Models: Which to Use and Why? \
+https://towardsdatascience.com/face-detection-models-which-to-use-and-why-d263e82c302c
+\
+Review: MobileNetV2 — Light Weight Model (Image Classification) \
+https://towardsdatascience.com/review-mobilenetv2-light-weight-model-image-classification-8febb490e61c
+\
+cabani/MaskedFace-Net \
+https://github.com/cabani/MaskedFace-Net
+\
+balajisrinivas/Face-Mask-Detection \
+https://github.com/balajisrinivas/Face-Mask-Detection
