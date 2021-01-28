@@ -36,8 +36,14 @@ After getting the focal length, we can get the distance from the webcam, which w
 <img src="https://github.com/eddylamhw/Mask-Wearing-and-Social-Distancing-Detection-Model/blob/main/images(ppt).jpg/p1esnk8v5l184u13jg6len9b1fr4-13.jpg" width = "500">
 
 ## 7. Demo
-<img src="https://github.com/eddylamhw/Mask-Wearing-and-Social-Distancing-Detection-Model/blob/main/FinalDemo.gif" width = "500">
-https://github.com/eddylamhw/Mask-Wearing-and-Social-Distancing-Detection-Model/blob/main/FinalDemo.gif
+### Mask Only
+<img src="https://github.com/eddylamhw/Mask-Wearing-and-Social-Distancing-Detection-Model/blob/main/ppt/media/image14.gif" width = "500">
+
+### Distance Measurement Only
+<img src="https://github.com/eddylamhw/Mask-Wearing-and-Social-Distancing-Detection-Model/blob/main/ppt/media/image23.gif" width = "500">
+
+### Final
+<img src="https://github.com/eddylamhw/Mask-Wearing-and-Social-Distancing-Detection-Model/blob/main/ppt/media/image24.gif" width = "500">
 
 # References
 Face Detection Models: Which to Use and Why? \
